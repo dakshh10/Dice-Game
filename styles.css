@@ -1,0 +1,31 @@
+body{
+    background-color: #4A55A2;
+    text-align: center;
+}
+h1{
+    color: #45CFDD;
+    font-family: "Leckerli One",sans-serif;
+    font-size: 5rem;
+    text-shadow: 10px 0 #2c5155;
+}
+footer{
+    color: #fff;
+    font-family: "Amatic SC";
+    font-size: large;
+    word-spacing: 10px;
+}
+p{
+    color: #fff;
+    font-family: "Amatic SC";
+    font-size: 2rem;
+}
+.dice{
+    display: inline-block;
+    padding: 0 20px;
+}
+h3{
+    color: #45CFDD;
+    font-family: "Leckerli One",sans-serif;
+    text-shadow: 4px 0 #2c5155;
+
+}
